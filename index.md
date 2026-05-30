@@ -57,8 +57,8 @@ src/
 - **Direção**: Editorial sofisticado com elementos de revista — texto vertical, grids assimétricos e generosos espaços em branco
 ---
 ## 📬 Contato
-- **LinkedIn**: [linkedin.com/in/clevia-jesus](https://www.linkedin.com/in/clevia-jesus/)
-- **E-mail**: clevia.jesus@gmail.com
-- **WhatsApp**: +55 71 99637-7374
+- **LinkedIn**: [https://www.linkedin.com/in/clevia-cristina-ramos/]
+- **E-mail**: cleviaramos.adv@gmail.com
+- **WhatsApp**: +55 71 98253-3387
 ---
 > Construído com cuidado. Salvador, BA → São Paulo · 2026
